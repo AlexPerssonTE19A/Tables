@@ -18,9 +18,22 @@ caption{
 	font-size: 20px;
 }
 
-tr:nth-child(1) {
-	background-color: blue;
+.blue {
+  background-color: blue;
 }
 
+.yellow {
+  background-color: yellow;
+}
 
+.red {
+  background-color: red;
+}
 
+.black {
+  background-color: black;
+}
+
+.green {
+  background-color: lime;
+}
